@@ -1,9 +1,9 @@
 {
     "owner": {
         "username": "nadeembhat24",
-        "email": "[email protected]"
+        "email": "nadeem.is.a.dev@gmail.com"
     },
     "records": {
-        "CNAME": "nadeemhassan.pages.dev"
+        "NS": ["eva.ns.cloudflare.com","west.ns.cloudflare.com"]
     }
 }
